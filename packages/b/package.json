@@ -1,0 +1,12 @@
+{
+  "name": "b",
+  "version": "0.1.0",
+  "private": true,
+  "description": "",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Will Foxall",
+  "license": "ISC"
+}
