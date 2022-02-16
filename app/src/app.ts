@@ -1,4 +1,4 @@
-import {a,usingb} from 'a';
+import {a,usingb} from '@wfoxall/a';
 
 console.log(`Starting app...`);
 console.log(a());

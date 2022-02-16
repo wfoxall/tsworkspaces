@@ -1,4 +1,4 @@
-import {b} from 'b';
+import {b} from '@wfoxall/b';
 
 function a(): string {
     return "Hi from module A!"

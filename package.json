@@ -1,5 +1,5 @@
 {
-  "name": "tsworkspaces",
+  "name": "@wfoxall/tsworkspaces",
   "version": "0.1.0",
   "private": true,
   "description": "This is a test project to test building of npm workspaces with Typescript.",
