@@ -1,5 +1,5 @@
 {
-  "references": [{"path": "./packages/*"},{"path": "./app"}],
+  "references": [{"path": "./packages/a"}, {"path": "./packages/b"}, {"path": "./app"}],
   "compilerOptions": {
     /* Visit https://aka.ms/tsconfig.json to read more about this file */
 

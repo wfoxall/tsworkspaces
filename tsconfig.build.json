@@ -1,4 +1,4 @@
 {
     "files": [],
-    "references": [{ "path": "packages/a" }, { "path": "packages/a" }, {"path": "app"}]
+    "references": [{ "path": "packages/b" }, { "path": "packages/a" }, {"path": "app"}]
   }
